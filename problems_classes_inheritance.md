@@ -1,4 +1,4 @@
-# Problems related to Classes and Inheritance
+# Problems related to Classes and Inheritance in JavaScript
 
 ## No true class-based inheritance
 
