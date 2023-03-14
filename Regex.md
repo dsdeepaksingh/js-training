@@ -156,3 +156,9 @@ console.log(`${result1[0]} ${result2[0]} ${result3[0]}`); // quick brown fox
 1. Create a regex pattern to match a string that contains a credit card number (Visa, Mastercard, or American Express).
 1. Create a regex pattern to match a string that contains a hashtag (starts with "#" and followed by alphanumeric characters).
 1. Create a regex pattern to match a string that contains a word that starts with a capital letter and has at least 4 characters.
+
+
+
+### more resources
+
+https://gist.github.com/dsdeepak17/09e28abb7b9b2b2102a6a5e2f2b6bb17
